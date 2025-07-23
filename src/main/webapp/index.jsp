@@ -2,6 +2,8 @@
 <html>
 <body>
 <h1>
+
+<h1>jskdkjsfjdjjkkjdfkjfkdj</h1>
 HEllo from Oracle Pune
 
 </h1>
@@ -9,10 +11,7 @@ HEllo from Oracle Pune
 
 This is mid fiel by ashu 		
 </h6>
-<h2><%= "hello world from pune sdjsdkkdnsnd   fjkfdkfdnkfnkdkn
 
->
-" %></h2>
 
 </body>
 </html>
